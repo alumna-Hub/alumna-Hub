@@ -1,0 +1,2 @@
+def calcular_area_circulo(radio):
+    # Copilot puede sugerir automáticamente el resto de la función
